@@ -21,4 +21,4 @@ function deepestChild() {
   console.log(current.length)
 }
 
-deepestChid()
+deepestChild()
