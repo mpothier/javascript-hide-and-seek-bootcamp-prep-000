@@ -17,5 +17,5 @@ function deepestChild() {
   var nodes = []
   var current = []
   var next = []
-  current = document.querySelectorAll("#grand-node")
+  current = document.querySelectorAll("#grand-node div")
 }
