@@ -18,5 +18,5 @@ function deepestChild() {
   var current
   var next = []
   current = document.querySelectorAll("div#grand-node div")
-  console.log()
+  console.log(current.length)
 }
