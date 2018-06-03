@@ -20,3 +20,5 @@ function deepestChild() {
   current = document.querySelectorAll("div#grand-node div")
   console.log(current.length)
 }
+
+deepestChid()
