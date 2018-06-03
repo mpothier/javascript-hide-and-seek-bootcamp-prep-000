@@ -15,4 +15,6 @@ function increaseRankBy(n) {
 
 function deepestChild() {
   var nodes = []
+  var current = []
+  var next = []
 }
